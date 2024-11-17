@@ -1,0 +1,6 @@
+@GESTIONEVENTO_HostAddress = http://localhost:5125
+
+GET {{GESTIONEVENTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
