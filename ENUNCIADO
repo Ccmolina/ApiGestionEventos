@@ -1,0 +1,8 @@
+Api de gestion de Eventos 
+Desarrola una API REST para la gestion de eventos . Cada event tieneun titulo una descripcion , una fecha y una lista de participantes . los usuarios registrados pueden crear eventos y otros usuarios pueden unirse a ellos 
+
+requisitos adicionales : 
+1. un usuario no puede unirse a un evento que ya haya pasado 
+2. Implementa una relacion muchos a muchos entre usuarios y eventos 
+3.Validar que no se pueda crear un evento en el pasado 
+4. usar autenticacion 
